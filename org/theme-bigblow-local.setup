@@ -2,7 +2,7 @@
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/bigblow_theme/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/bigblow_theme/css/hideshow.css"/>
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://deopurkar.github.io/css/main.css"/>
 #+HTML_HEAD: <script type="text/javascript" src="src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
 
